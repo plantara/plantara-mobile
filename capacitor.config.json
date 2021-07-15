@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "plantara",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
